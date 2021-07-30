@@ -1,3 +1,21 @@
 Nakajugo Edna Margaret 
 
-Software Developer at outbox
+Software Developer 
+
+// features- 
+user to login - Noah
+user sign up - Livingstone 
+user create a TODO - David
+User checks off a todo - Brenda 
+
+conflicts 
+
+team git convensions
+Development - develop (main) 
+testing 
+production - main
+
+branch naming conversions
+- ft
+- bg/ fix
+- ch
